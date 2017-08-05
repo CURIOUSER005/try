@@ -1,5 +1,4 @@
-a = 10
-if a:
-	pass
-else:
-	pass
+a = ['one','two','three','four','five']
+for x in a:
+    print(x);
+
